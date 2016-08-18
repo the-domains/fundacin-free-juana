@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0
+color:
+  saturation: 0.179513
+  lightness: 0.3879609
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#2D2D2D'
+    - '#CCCCCC'
+    - '#68686A'
+    - '#8CC748'
+  rhythmicContrast: 0.6385198
+name: 'Fundación Free Juana '
