@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0
 color:
   saturation: 0.179513
-  lightness: 0.3879609
   brandStrength: 1
+  rhythmicContrast: 0.6385198
   brandColors:
     - '#FFFFFF'
     - '#2D2D2D'
     - '#CCCCCC'
     - '#68686A'
     - '#8CC748'
-  rhythmicContrast: 0.6385198
+  lightness: 0.3879609
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+typography_spectrum: 0
 name: Www.freejuana.com
